@@ -1,0 +1,293 @@
+$date
+	Thu Apr 22 23:13:39 2021
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test_seqgenerator $end
+$var wire 1 ! Y $end
+$var wire 1 " Bcomp $end
+$var wire 1 # B $end
+$var wire 1 $ Acomp $end
+$var wire 1 % A $end
+$var reg 1 & X $end
+$var reg 1 ' clk $end
+$var reg 1 ( rst $end
+$scope module DUT $end
+$var wire 1 ) DA $end
+$var wire 1 * DB $end
+$var wire 1 & X $end
+$var wire 1 ! Y $end
+$var wire 1 ' clk $end
+$var wire 1 ( rst $end
+$var wire 1 " Bcomp $end
+$var wire 1 # B $end
+$var wire 1 $ Acomp $end
+$var wire 1 % A $end
+$scope module DF1 $end
+$var wire 1 ) D $end
+$var wire 1 ' clk $end
+$var wire 1 ( rst $end
+$var reg 1 % Q $end
+$var reg 1 $ Qcomp $end
+$upscope $end
+$scope module DF2 $end
+$var wire 1 * D $end
+$var wire 1 ' clk $end
+$var wire 1 ( rst $end
+$var reg 1 # Q $end
+$var reg 1 " Qcomp $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+1*
+0)
+1(
+0'
+1&
+0%
+1$
+0#
+1"
+0!
+$end
+#2
+0(
+#10
+0*
+1)
+0"
+1#
+1'
+#20
+0'
+#30
+0)
+1!
+1"
+0#
+0$
+1%
+1'
+#32
+0!
+0&
+#40
+0'
+#50
+1$
+0%
+1'
+#60
+0'
+#62
+1*
+1&
+#70
+0*
+1)
+0"
+1#
+1'
+#80
+0'
+#90
+1!
+0)
+0$
+1%
+1"
+0#
+1'
+#92
+0!
+0&
+#100
+0'
+#110
+1$
+0%
+1'
+#120
+0'
+#122
+1*
+1&
+#130
+0*
+1)
+0"
+1#
+1'
+#140
+0'
+#150
+0)
+1!
+1"
+0#
+0$
+1%
+1'
+#160
+0'
+#170
+1*
+0!
+1$
+0%
+1'
+#180
+0'
+#190
+0*
+1)
+0"
+1#
+1'
+#200
+0'
+#210
+1!
+0)
+0$
+1%
+1"
+0#
+1'
+#220
+0'
+#230
+1*
+0!
+1$
+0%
+1'
+#240
+0'
+#250
+0*
+1)
+0"
+1#
+1'
+#260
+0'
+#270
+0)
+1!
+1"
+0#
+0$
+1%
+1'
+#280
+0'
+#290
+1*
+0!
+1$
+0%
+1'
+#300
+0'
+#310
+0*
+1)
+0"
+1#
+1'
+#320
+0'
+#330
+1!
+0)
+0$
+1%
+1"
+0#
+1'
+#340
+0'
+#350
+1*
+0!
+1$
+0%
+1'
+#360
+0'
+#370
+0*
+1)
+0"
+1#
+1'
+#380
+0'
+#390
+0)
+1!
+1"
+0#
+0$
+1%
+1'
+#400
+0'
+#410
+1*
+0!
+1$
+0%
+1'
+#420
+0'
+#430
+0*
+1)
+0"
+1#
+1'
+#440
+0'
+#450
+1!
+0)
+0$
+1%
+1"
+0#
+1'
+#460
+0'
+#470
+1*
+0!
+1$
+0%
+1'
+#480
+0'
+#490
+0*
+1)
+0"
+1#
+1'
+#500
+0'
+#510
+0)
+1!
+1"
+0#
+0$
+1%
+1'
